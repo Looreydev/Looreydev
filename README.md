@@ -1,4 +1,4 @@
-Hi there, my name is Loorey 👋 Student on a Technical College in Electrical Engineering and Technical Computer Science.
+Hi there, my name is Loorey 👋 Student at a Technical College in Electrical Engineering and Technical Computer Science.
 
  ## 🛰 About Myself
 
@@ -34,7 +34,7 @@ You probably won't find a lot of Code here on GitHub, that's mainly because I'm 
 ![POSTGRES](https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white)
 ![MONGODB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white)
 
-📡 Proudly deploying using...\
+📡 Confidently deploying using...\
 ![TERRAFORM](https://img.shields.io/badge/terraform%20-%235835CC.svg?&style=for-the-badge&logo=terraform&logoColor=white)
 ![DOCKER](https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white)
 ![K8S](https://img.shields.io/badge/kubernetes%20-%23326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
